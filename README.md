@@ -18,10 +18,6 @@
 
 特点是好看、简约、优雅、易用。目前发布了第一个版本，已经可以支撑日常的使用。
 
-因为暂时只有我一个人在测试，所以可能会有一些没有被我发现的 Bug，大家在如果在使用的过程中发现 Bug，请在 issue 中告诉我，我会及时进行修复。
-
-如果你对 HERE Music 的开发感兴趣的话，欢迎一起参与到项目的开发。
-
 ## 安装
 **Mac**
 
@@ -141,4 +137,4 @@ $ yarn dist
 
 **Here Music** © CaiJin, Released under the [MIT](https://github.com/caijinyc/Here/blob/master/LICENSE) License.
 
-> [Blog](https://caijin.tech/blog) · GitHub [@caijinyc](https://github.com/caijinyc) · Telegram Channel [@KSIG](https://t.me/joinchat/FcnvjhQ610tZW73tbU8VUA)
+> Blog [Jin's Blog](https://caijin.tech) · GitHub [@caijinyc](https://github.com/caijinyc)
